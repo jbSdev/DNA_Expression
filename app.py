@@ -1,7 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-import time
-import threading
 
 def to_uppercase(*args):
 	dna.set(dna.get().upper())
@@ -139,7 +137,6 @@ def modification():
 	coding_dna	.set('5\'' + code + '3\'')
 	mRNA		.set('5\'' + mR + '3\'')
 	poli		.set(pl)
-
 
 
 root = Tk()

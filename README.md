@@ -2,7 +2,9 @@
 <sub>by jb <3</sub>
 
 Created as a homework for my biology class.
+
 Gets DNA string as an input -> outputs it's inverse, mRNA and polypeptide counterpart.
+
 Please don't hate me for this huge 'if' section. I hate it too...
 
 ## To run:
