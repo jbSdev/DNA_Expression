@@ -8,6 +8,14 @@ Gets DNA string as an input -> outputs it's inverse, mRNA and polypeptide counte
 Please don't hate me for this huge 'if' section. I hate it too...
 
 ## To run:
+Download this repository using `Download ZIP` under green `CODE` button on the right of page.
+
+Run app.exe from `/dist` folder.
+
+If not possible, read few lines down...
+
+**OR**
+
 Clone this repository using `git clone` command
 
 Execute `app.exe` from `/dist` folder
